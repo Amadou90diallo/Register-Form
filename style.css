@@ -1,0 +1,135 @@
+#conteneur{
+	display: flex;
+	/*border: 1px solid black;*/
+	background-color: #8bf5f9;
+	height: 630px;
+	width: 950px;
+	margin: 0 100px 0 220px;
+}
+
+#information{
+	/*border: 1px solid black;*/
+	float: left;
+	background-color: #395ef6;
+	height: 530px;
+	width: 400px;
+	margin: 50px 0 0 80px;
+	border-radius: 15px 0 0 15px;
+}
+
+#formulaire{
+	/*border: 1px solid black;*/
+	background-color: #ececec;
+	height: 530px;
+	width: 400px;
+	margin: 50px 0 0 0;
+	border-radius: 0 15px 15px 0;
+}
+
+#conteneur_principal{
+	/*border: 1px solid black;*/
+	width: 810px;
+	height: 530px;
+	margin: 50px 0 0 65px;
+}
+
+
+#titre_info{
+	margin: 40px 0 30px 40px;
+	color: white;
+	font-family: Arial, sans-serif;
+}
+
+p{
+	font-family: Arial, sans-serif;
+}
+
+#texte_info_para_1{
+	margin: 0 0 0 40px;
+	color: white;
+}
+
+#texte_info_para_2{
+	margin: 20px 0 0 40px;
+	color: white;
+}
+
+#bouton{
+	margin: 20px 0 0 40px;
+	height: 45px;
+	width: 140px;
+	border-radius: 10px 0 10px 0;
+}
+
+#titre_register{
+	margin: 40px 0 30px 40px;
+	color: #3f9bfc;
+	font-family: Arial, sans-serif;
+}
+
+#first_name{
+	float: left;
+	margin: 0 60px 0 40px;
+}
+
+#id_input{
+	display: flex;
+}
+
+#input_first_name{
+	margin-left: 40px;
+	height: 30px;
+	width: 110px;
+}
+
+#input_last_name{
+	margin-left: 14px;
+	height: 30px;
+}
+
+#id_input_password{
+	display: flex;
+}
+
+#password{
+	float: left;
+	margin: 0 70px 0 40px;
+}
+
+#partie_password{
+	margin-top: 30px;
+}
+
+#input_password{
+	margin-left: 40px;
+	height: 30px;
+	width: 115px;
+}
+
+#input_confirme_password{
+	margin-left: 10px;
+	height: 30px;
+	width: 135px;
+}
+
+#email{
+	margin: 30px 0 0 40px;
+}
+
+#input_email{
+	margin-left: 40px;
+	height: 30px;
+	width: 271px;
+}
+
+#condition_and_terms{
+	margin: 40px 0 0 40px;
+}
+
+#bouton_register{
+	margin: 30px 0 0 40px;	
+	height: 45px;
+	width: 140px;
+	background-color: #3093fc;
+	border-radius: 10px 0 10px 0;
+}
